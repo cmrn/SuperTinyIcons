@@ -178,7 +178,7 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="/images/svg/venmo.svg" width="256" /> | <img src="/images/reference/venmo-icon.svg" width="256" /> | https://venmo.com/about/brand
 <img src="/images/svg/square_cash.svg" width="256" /> | <img src="/images/reference/square-cash-app-logo.jpg" width="256" /> | https://squareup.com/us/en/press
 <img src="/images/svg/opencollective.svg" width="256" /> | <img src="/images/reference/opencollective.svg" width="256" /> | https://docs.opencollective.com/help/about/introduction#media-logo
-<img src="/images/svg/safari.svg" width="256" /> | <img src="/images/reference/Safari_browser_logo.svg" width="256" /> | https://www.apple.com/uk/safari/
+<img src="/images/svg/safari.svg" width="256" /> | <img src="/images/reference/safari.960x960.png" width="256" /> | https://support.apple.com/en_GB/downloads/safari
 <img src="/images/svg/researchgate.svg" width="256" /> | <img src="/images/reference/researchgate.png" width="256" /> | https://mobile.twitter.com/ResearchGate/photo
 <img src="/images/svg/opencores.svg" width="256" /> | <img src="/images/reference/opencores.png" width="256" /> | https://opencores.org
 <img src="/images/svg/julia.svg" width="256" /> | <img src="/images/reference/julia.svg" width="256" /> | https://julialang.org

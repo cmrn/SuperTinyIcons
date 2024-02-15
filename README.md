@@ -416,7 +416,7 @@ Say thanks!
 <tr>
 <td>Ruby On Rails<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubyonrails.svg" width="100" title="Ruby On Rails"><br>460 bytes</td>
 <td>Rust<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" width="100" title="Rust"><br>992 bytes</td>
-<td>Safari<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="100" title="Safari"><br>693 bytes</td>
+<td>Safari<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="100" title="Safari"><br>712 bytes</td>
 <td>Samsung<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung.svg" width="100" title="Samsung"><br>857 bytes</td>
 <td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_internet.svg" width="100" title="Samsung Internet"><br>312 bytes</td>
 <td>Samsung<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_s.svg" width="100" title="Samsung"><br>602 bytes</td>
